@@ -2,6 +2,8 @@
 
 A modern React-based weather application that provides current weather conditions and a 5-day forecast for any city worldwide. Built with Vite, Tailwind CSS, and powered by OpenWeatherMap API, this app offers a clean and intuitive user interface for checking weather information.
 
+## **Live preview**
+- Check out here live preview of weather app (Live link)[https://weather-app-tan-beta-96.vercel.app/]
 ## **Features**
 - **Real-time Weather Data**: Get current weather conditions including temperature, humidity, wind speed, visibility, and pressure
 - **5-Day Forecast**: View detailed weather predictions for the next 5 days
